@@ -1,7 +1,7 @@
 # Taxi-Service
 ### Project description:
 ```
-A simple web-application that supports authentication, registration and other CRUD operations.
+This project is a simulation of taxi service
 ```
 ## Features:
 - registration like a driver;
